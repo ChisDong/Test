@@ -1,0 +1,15 @@
+﻿  DanhSachXeMay.cpp
+  Xe_may.cpp
+D:\23520176\Solution1\Xe_may\KhungXe_nhua.h(10,19): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+D:\23520176\Solution1\Xe_may\KhungXe_nhua.h(10,19): warning C4305:         with
+D:\23520176\Solution1\Xe_may\KhungXe_nhua.h(10,19): warning C4305:         [
+D:\23520176\Solution1\Xe_may\KhungXe_nhua.h(10,19): warning C4305:             _Elem=char
+D:\23520176\Solution1\Xe_may\KhungXe_nhua.h(10,19): warning C4305:         ]
+  (compiling source file 'Xe_may.cpp')
+  
+D:\23520176\Solution1\Xe_may\KhungXe_nhua.h(10,19): warning C4309: 'argument': truncation of constant value
+  (compiling source file 'Xe_may.cpp')
+  
+  main.cpp
+  Generating Code...
+  Xe_may.vcxproj -> D:\23520176\Solution1\x64\Debug\Xe_may.exe
